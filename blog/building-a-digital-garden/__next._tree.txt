@@ -1,0 +1,7 @@
+:HL["/tomorrow-letters/_next/static/css/88c12448f862769d.css","style"]
+:HL["/tomorrow-letters/_next/static/css/3441da7062753b32.css","style"]
+:HL["/tomorrow-letters/_next/static/css/40c1c2c905e3f40e.css","style"]
+:HL["/tomorrow-letters/_next/static/css/3554c17e19c865bb.css","style"]
+:HL["/tomorrow-letters/_next/static/css/dcdee781bf560519.css","style"]
+:HL["/tomorrow-letters/_next/static/css/53c8a18dd7c46bed.css","style"]
+0:{"buildId":"ID-IBXdLyMx_IljGJDfeJ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"building-a-digital-garden","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

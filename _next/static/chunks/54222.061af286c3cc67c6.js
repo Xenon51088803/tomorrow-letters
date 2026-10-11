@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[54222],{54222:()=>{var e=Prism;function a(a,n){e.languages[a]&&e.languages.insertBefore(a,"comment",{"doc-comment":n})}var n=e.languages.markup.tag,s={pattern:/\/\/\/.*/,greedy:!0,alias:"comment",inside:{tag:n}};a("csharp",s),a("fsharp",s),a("vbnet",{pattern:/'''.*/,greedy:!0,alias:"comment",inside:{tag:n}})}}]);

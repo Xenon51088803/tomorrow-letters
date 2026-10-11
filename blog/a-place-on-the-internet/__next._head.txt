@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[30887,[],"ViewportBoundary"]
+3:I[30887,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[60214,[],"IconMark"]
+0:{"buildId":"ID-IBXdLyMx_IljGJDfeJ","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"在互联网上，留一小块自己的地方 · 明日来信"}],["$","meta","1",{"name":"description","content":"关于个人网站、缓慢更新，以及那些值得被留下来的东西。"}],["$","link","2",{"rel":"icon","href":"/tomorrow-letters/favicon.ico?060e9f443d247333","type":"image/x-icon","sizes":"120x120"}],["$","$L5","3",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
