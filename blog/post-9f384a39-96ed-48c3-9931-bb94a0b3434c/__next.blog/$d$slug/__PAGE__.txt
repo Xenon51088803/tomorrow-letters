@@ -1,11 +1,11 @@
 1:"$Sreact.fragment"
-2:I[34911,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-08773d1113d17a3e.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],"Column"]
-3:I[65587,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-08773d1113d17a3e.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],""]
-4:I[41407,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-08773d1113d17a3e.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],"Row"]
-27b:I[44279,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-08773d1113d17a3e.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],"JournalRow"]
+2:I[34911,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-f82ec713b74de514.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],"Column"]
+3:I[65587,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-f82ec713b74de514.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],""]
+4:I[41407,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-f82ec713b74de514.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],"Row"]
+27b:I[44279,["89599","static/chunks/b6ff252e-89dfae742c22dce2.js","24904","static/chunks/f245bf5a-ac30e6e26a997e08.js","72734","static/chunks/a9f06191-b8e4088c816540a1.js","65720","static/chunks/7dccf9e0-5dc777db4b31b80a.js","65587","static/chunks/65587-9b70b5477e36b1ec.js","2073","static/chunks/2073-5536ae038feb579f.js","80216","static/chunks/80216-f82ec713b74de514.js","95953","static/chunks/app/blog/%5Bslug%5D/page-b0f0a57f2e5b5756.js"],"JournalRow"]
 27e:I[30887,[],"OutletBoundary"]
 27f:"$Sreact.suspense"
-0:{"buildId":"PSbYfpOrn1gL-lNi6UapC","rsc":["$","$1","c",{"children":[["$","$L2",null,{"as":"article","className":"Personal_articlePage__tDJib","children":[["$","$L3",null,{"href":"/blog","className":"Personal_softLink__cVRqF","children":"← 所有文章"}],["$","h1",null,{"className":"font-m font-strong neutral-on-background-strong Personal_articleTitle__0nkJI","style":{"textWrap":"balance"},"children":"电分研究性论文"}],["$","p",null,{"className":"Personal_articleSummary__ibqQV","style":{},"children":""}],["$","$L4",null,{"className":"Personal_articleMetadata__kl_Bp","children":[["$","time",null,{"className":"","style":{},"dateTime":"2026-06-12","children":"2026.06.12"}],["$","span",null,{"className":"","style":{},"children":"技术"}],["$","span",null,{"className":"","style":{},"children":[40," min read"]}]]}],"",["$","$L2",null,{"className":"Personal_articleBody__qIflV","children":["$","div",null,{"className":"Markdown_prose__iIeYk ","children":[["$","h1","h1-0",{"children":"重读“波兰中学生”：基于离散傅里叶展开的无穷电阻网络等效阻抗研究"}],"\n",["$","h2","h2-0",{"children":"〇、前言"}],"\n",["$","p","p-0",{"children":["本篇论文的选题，源自笔者在高中参加物理竞赛时留下的一段深刻的印象——《难题集萃》中经典的“波兰中学生”无限电阻网络问题。该题以其精妙的物理对称性和宏大的空间拓扑结构，在竞赛界广为人知。彼时，受限于个人数学能力，笔者虽能利用电流叠加原理等直观的物理方法，求解出相邻两节点间",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","msub","msub-0",{"children":[["$","mi","mi-0",{"children":"R"}],["$","mn","mn-0",{"children":"10"}]]}],["$","mo","mo-0",{"children":"="}],["$","mfrac","mfrac-0",{"children":[["$","mi","mi-0",{"children":"r"}],["$","mn","mn-0",{"children":"2"}]]}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"R_{10} = \\frac{r}{2}"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":[["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.8333em","verticalAlign":"-0.15em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0077em"},"children":"R"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.3011em"},"children":["$","span","span-0",{"style":{"top":"-2.55em","marginLeft":"-0.0077em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"10"}]}]}]]}]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.15em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-3",{"className":"mrel","children":"="}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2778em"}}]]}],["$","span","span-1",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1.0404em","verticalAlign":"-0.345em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.6954em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.394em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":"$L5"}]}]]}]]}],"$L6"]}],"$L7"]}]}],"$L8"]}]]}]]}]]}],"的经典结论，但面对非相邻节点的复杂阻抗递推以及更广泛拓扑结构（如三角形、六角形及多维网络）的推广时，由于只具备基本的高等数学知识，对傅里叶级数并无掌握，因此只能窥其一斑，难以穷尽其背后的深层数理本质。"]}],"\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91"]}]}],false,"$L92"]}],null,"$L93"]}],"loading":null,"isPartial":false}
+0:{"buildId":"eieDTvrfZUwYRwOQbWVYI","rsc":["$","$1","c",{"children":[["$","$L2",null,{"as":"article","className":"Personal_articlePage__tDJib","children":[["$","$L3",null,{"href":"/blog","className":"Personal_softLink__cVRqF","children":"← 所有文章"}],["$","h1",null,{"className":"font-m font-strong neutral-on-background-strong Personal_articleTitle__0nkJI","style":{"textWrap":"balance"},"children":"电分研究性论文"}],["$","p",null,{"className":"Personal_articleSummary__ibqQV","style":{},"children":""}],["$","$L4",null,{"className":"Personal_articleMetadata__kl_Bp","children":[["$","time",null,{"className":"","style":{},"dateTime":"2026-06-12","children":"2026.06.12"}],["$","span",null,{"className":"","style":{},"children":"技术"}],["$","span",null,{"className":"","style":{},"children":[40," min read"]}]]}],"",["$","$L2",null,{"className":"Personal_articleBody__qIflV","children":["$","div",null,{"className":"Markdown_prose__iIeYk ","children":[["$","h1","h1-0",{"children":"重读“波兰中学生”：基于离散傅里叶展开的无穷电阻网络等效阻抗研究"}],"\n",["$","h2","h2-0",{"children":"〇、前言"}],"\n",["$","p","p-0",{"children":["本篇论文的选题，源自笔者在高中参加物理竞赛时留下的一段深刻的印象——《难题集萃》中经典的“波兰中学生”无限电阻网络问题。该题以其精妙的物理对称性和宏大的空间拓扑结构，在竞赛界广为人知。彼时，受限于个人数学能力，笔者虽能利用电流叠加原理等直观的物理方法，求解出相邻两节点间",["$","span","span-0",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","msub","msub-0",{"children":[["$","mi","mi-0",{"children":"R"}],["$","mn","mn-0",{"children":"10"}]]}],["$","mo","mo-0",{"children":"="}],["$","mfrac","mfrac-0",{"children":[["$","mi","mi-0",{"children":"r"}],["$","mn","mn-0",{"children":"2"}]]}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"R_{10} = \\frac{r}{2}"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":[["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.8333em","verticalAlign":"-0.15em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0077em"},"children":"R"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.3011em"},"children":["$","span","span-0",{"style":{"top":"-2.55em","marginLeft":"-0.0077em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"10"}]}]}]]}]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.15em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-3",{"className":"mrel","children":"="}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2778em"}}]]}],["$","span","span-1",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"1.0404em","verticalAlign":"-0.345em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.6954em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.394em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":"$L5"}]}]]}]]}],"$L6"]}],"$L7"]}]}],"$L8"]}]]}]]}]]}],"的经典结论，但面对非相邻节点的复杂阻抗递推以及更广泛拓扑结构（如三角形、六角形及多维网络）的推广时，由于只具备基本的高等数学知识，对傅里叶级数并无掌握，因此只能窥其一斑，难以穷尽其背后的深层数理本质。"]}],"\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13","\n","$L14","\n","$L15","\n","$L16","\n","$L17","\n","$L18","\n","$L19","\n","$L1a","\n","$L1b","\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55","\n","$L56","\n","$L57","\n","$L58","\n","$L59","\n","$L5a","\n","$L5b","\n","$L5c","\n","$L5d","\n","$L5e","\n","$L5f","\n","$L60","\n","$L61","\n","$L62","\n","$L63","\n","$L64","\n","$L65","\n","$L66","\n","$L67","\n","$L68","\n","$L69","\n","$L6a","\n","$L6b","\n","$L6c","\n","$L6d","\n","$L6e","\n","$L6f","\n","$L70","\n","$L71","\n","$L72","\n","$L73","\n","$L74","\n","$L75","\n","$L76","\n","$L77","\n","$L78","\n","$L79","\n","$L7a","\n","$L7b","\n","$L7c","\n","$L7d","\n","$L7e","\n","$L7f","\n","$L80","\n","$L81","\n","$L82","\n","$L83","\n","$L84","\n","$L85","\n","$L86","\n","$L87","\n","$L88","\n","$L89","\n","$L8a","\n","$L8b","\n","$L8c","\n","$L8d","\n","$L8e","\n","$L8f","\n","$L90","\n","$L91"]}]}],false,"$L92"]}],null,"$L93"]}],"loading":null,"isPartial":false}
 5:["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0278em"},"children":"r"}]
 6:["$","span","span-1",{"className":"vlist-s","children":"​"}]
 7:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.345em"},"children":["$","span","span-0",{}]}]}]
@@ -147,7 +147,97 @@ f:["$","h2","h2-2",{"children":"二、相邻节点间等效电阻的求解"}]
 8f:["$","p","p-84",{"children":"谨以此文，致那段热烈而纯粹的物竞时光，致两年前的那个物竞生，致那个勇猛精进、意气风发的自己。"}]
 90:["$","p","p-85",{"children":"2026年6月12日夜"}]
 91:["$","p","p-86",{"children":"于教二"}]
-27c:Td8a4,# 物竞回忆录：风吹过的日子
+27c:Taee,# Where Our Roads Begin
+
+I remember being scared to move  
+Then your hand reached quietly for mine  
+I never knew where roads could lead  
+I only knew I followed your light
+
+I found you underneath a different sky  
+Still running forward like you always had  
+I thought my reason stood beside you  
+Before I learned a dream could be mine
+
+I fell before the lights could shine  
+I changed the girl reflected in the glass  
+Every mistake became another doorway  
+And every step began to feel like mine
+
+You never had to walk like me  
+Just find the road that makes you run  
+If you fall down then stand again  
+There's always something waiting up ahead
+
+You move ahead because tomorrow calls  
+I move ahead because you showed me how  
+We don't need one road beneath us  
+To know we're moving forward somehow
+
+Your hand was where my courage started  
+Your smile said keep believing in the climb  
+If different skies are waiting for us  
+We'll meet them both one dream at a time
+
+I've seen you rise when things went wrong  
+You found your answer without looking back  
+You stood beside me when I doubted  
+And somehow pulled my courage into place
+
+I don't know where the road will turn  
+But I know you can handle what it brings  
+So take the chance that's calling loudly  
+I'll chase the next horizon waiting there
+
+The hand I followed walked beside me  
+Until my own steps found their sound  
+I wanted always to stay near you  
+But love can't mean I hold you down
+
+You move ahead and I'll keep moving too  
+Not because distance means we disappear  
+The dream you choose belongs completely  
+To the person standing stronger here
+
+We held each other through the hard days  
+When either one forgot which way was true  
+Now every road that pulls us onward  
+Carries something I received from you
+
+For once I chose the step before goodbye  
+No waiting there for fate to choose for me  
+The hand I followed taught me courage  
+And now that courage finally belongs to me
+
+So let my hand go when you're ready  
+I'll let yours go and trust the road you choose  
+We aren't losing what we carried  
+We're giving every dream more room to move
+
+You taught me how to keep on reaching  
+You showed me strength can grow from starting small  
+Two separate skies can share one sunrise  
+Two distant roads can still remember all
+
+The hand we held was never a promise  
+That every mile must always be the same  
+It was a way to say keep going  
+Until we meet much stronger once again
+
+So chase the world that's waiting for you  
+I'll chase the next horizon calling mine  
+Where our roads split is not the ending  
+It's where our roads begin beneath one sky
+
+I can let go and still remember  
+You can move on and still stay near  
+Until our roads cross somewhere farther  
+Keep going
+
+I'll be going too
+
+I'll be going too
+27d:Td8a4,# 物竞回忆录：风吹过的日子
 
 ## 前言
 
@@ -334,7 +424,7 @@ f:["$","h2","h2-2",{"children":"二、相邻节点间等效电阻的求解"}]
 “总有一天。”
 
 2026.7.21于家中
-92:["$","$L2",null,{"as":"aside","marginTop":"48","children":[["$","span",null,{"className":"Personal_eyebrow__ZKe3q mb-16","style":{},"children":"KEEP READING"}],[["$","$L27b","post-e8214f4f-fb4d-420f-b358-0063ba8c6a5d",{"entry":{"slug":"post-e8214f4f-fb4d-420f-b358-0063ba8c6a5d","title":"物竞回忆录：风吹过的日子","date":"2026-07-21","category":"随笔","summary":"","cover":"","sample":false,"sections":[{"title":"","text":""}],"markdown":"$27c"}}],"$L27d"]]}]
+92:["$","$L2",null,{"as":"aside","marginTop":"48","children":[["$","span",null,{"className":"Personal_eyebrow__ZKe3q mb-16","style":{},"children":"KEEP READING"}],[["$","$L27b","post-01335c94-370a-47e5-b071-ee78264c552c",{"entry":{"slug":"post-01335c94-370a-47e5-b071-ee78264c552c","title":"Where Our Roads Begin","date":"2026-10-15","category":"随笔","summary":"","cover":"/images/uploads/42a104b9-a440-48f5-81fe-3d77a9f4088d.webp","sample":false,"sections":[{"title":"","text":""}],"markdown":"$27c"}}],["$","$L27b","post-e8214f4f-fb4d-420f-b358-0063ba8c6a5d",{"entry":{"slug":"post-e8214f4f-fb4d-420f-b358-0063ba8c6a5d","title":"物竞回忆录：风吹过的日子","date":"2026-07-21","category":"随笔","summary":"","cover":"","sample":false,"sections":[{"title":"","text":""}],"markdown":"$27d"}}]]]}]
 93:["$","$L27e",null,{"children":["$","$27f",null,{"name":"Next.MetadataOutlet","children":"$@280"}]}]
 94:["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.6833em"}}],["$","span","span-1",{"className":"mord mathnormal","style":{"marginRight":"0.0502em"},"children":"B"}]]}]}]
 95:["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.3011em"},"children":["$","span","span-0",{"style":{"top":"-2.55em","marginLeft":"-0.0785em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.15em"},"children":["$","span","span-0",{}]}]}]]}]
@@ -823,594 +913,6 @@ ff:["$","span","span-2",{"className":"mclose nulldelimiter"}]
 278:["$","span","span-2",{"className":"arraycolsep","style":{"width":"0.5em"}}]
 279:["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.4306em"}}],["$","span","span-1",{"className":"mord mathnormal","style":{"marginRight":"0.0037em"},"children":"α"}]]}]
 27a:["$","span","span-2",{"className":"katex","children":[["$","span","span-0",{"className":"katex-mathml","children":["$","math","math-0",{"xmlns":"http://www.w3.org/1998/Math/MathML","children":["$","semantics","semantics-0",{"children":[["$","mrow","mrow-0",{"children":[["$","msub","msub-0",{"children":[["$","mi","mi-0",{"children":"R"}],["$","mi","mi-1",{"children":"m"}]]}],["$","mo","mo-0",{"children":"="}],["$","mi","mi-0",{"children":"m"}],["$","mi","mi-1",{"children":"r"}]]}],["$","annotation","annotation-0",{"encoding":"application/x-tex","children":"R_{m} = mr"}]]}]}]}],["$","span","span-1",{"className":"katex-html","aria-hidden":"true","children":[["$","span","span-0",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.8333em","verticalAlign":"-0.15em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0077em"},"children":"R"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.1514em"},"children":["$","span","span-0",{"style":{"top":"-2.55em","marginLeft":"-0.0077em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","children":"m"}]}]}]]}]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.15em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-3",{"className":"mrel","children":"="}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2778em"}}]]}],["$","span","span-1",{"className":"base","children":[["$","span","span-0",{"className":"strut","style":{"height":"0.4306em"}}],["$","span","span-1",{"className":"mord mathnormal","children":"m"}],["$","span","span-2",{"className":"mord mathnormal","style":{"marginRight":"0.0278em"},"children":"r"}]]}]]}]]}]
-32a:T97c2,# 从粒子偏转到量子凝聚
-
-## ——洛伦兹力科研应用的尺度演进调研
-
-## 〇、前言
-
-**十七岁那年，囫囵一梦，仓皇落幕。**
-
-本篇调研报告的选题与结构设计，源于笔者高中物理竞赛时的一段特殊经历。在笔者参加的最后一届复赛——即第41届全国中学生物理竞赛中，有这样一道以“2001年诺贝尔物理学奖——冷原子约束与玻色-爱因斯坦凝（BEC）”为背景的试题（见附录）。由于考前多次做过磁阱相关模型，考场上综合考量了计算量和模型熟悉程度的因素，笔者将它留到了最后一道去完成。如今想来，当时最后二十分钟不到完成磁场强度的多级展开等复杂计算的状态依然历历在目，在此之前以及之后，尽管笔者多次想要尝试接近当时的状态，却再也无法达到当时计算的速度与准确率。因此，尽管最后的结果是与国一失之交臂，这道题和其他题目一样，始终在记忆深处有着不可磨灭的印记。
-
-此次在对洛伦兹力应用的调研过程中，笔者感受到，洛伦兹力，由于其方向与运动方向垂直的特性，大量用于控制与约束物质的运动，这让笔者立刻想起了那道题中的Ioffe磁阱，尽管冷原子本身不带电，似乎不受洛伦兹力作用，但两者在物理图像上如此相近，必然在内部存在某种联系。
-
-在对此做了进一步调研之后，我发现玻色-爱因斯坦凝聚的理论基础虽然属于量子统计物理，但其实验实现却离不开磁场控制技术。而磁场控制技术的发展，又与人类对带电粒子运动规律的认识密切相关。沿着这条线索向前追溯，可以看到从洛伦兹力、带电粒子轨道控制、粒子加速器和磁约束技术，到超冷原子实验和BEC制备之间存在着一条清晰的技术发展脉络。因此，本文并不满足于简单列举洛伦兹力的应用实例，而是尝试从“粒子操控能力的发展”这一视角出发，探讨洛伦兹力如何在现代科研体系中发挥基础性作用。
-
-所以，在本文中，笔者将先简略介绍洛伦兹力在科研中的各项应用，并在最终以41届T5为基础，着重介绍玻色-爱因斯坦分布及如何通过Ioffe磁阱进行实现。
-
-## 一、洛伦兹力的物理本质
-
-### 1.1 洛伦兹力的基本规律
-
-在经典电磁学中，带电粒子在电场和磁场中所受到的合力称为洛伦兹力，其表达式为：F=q(E+v×B)
-
-其中q为粒子电荷量，E为电场强度，B为磁感应强度，v为粒子运动速度。
-
-洛伦兹力统一描述了电磁场对带电粒子的作用规律，是经典电磁学最重要的基本定律之一。其中电场力负责改变粒子的速度大小，而磁场力始终垂直于粒子的运动方向，因此不会直接改变粒子的动能，而是改变其运动轨迹。
-
-正是这种能够精确控制粒子运动方向的特性，使磁场成为现代实验物理最重要的操控手段之一。从电子、离子到高温等离子体，乃至后来的超冷原子实验，都离不开电磁场控制技术的发展。
-
-### 1.2 从粒子运动到粒子操控
-
-十九世纪末，人们对阴极射线和电子性质的研究推动了电磁学的发展。随着电子荷质比测量实验的成功，人类第一次能够利用电场和磁场主动控制微观粒子的运动轨迹。
-
-进入二十世纪后，科学家逐渐将这种控制能力转化为各种科研工具。质谱仪能够利用磁场区分不同离子；粒子加速器能够将粒子加速到接近光速；电子显微镜则利用电子束观察原子尺度结构。这些技术的发展共同构成了现代实验物理的基础。
-
-从更宏观的角度来看，现代科研的发展过程实际上体现了人类粒子操控能力的不断提升：最初控制单个带电粒子，随后控制粒子束和等离子体，进一步发展到控制原子、分子乃至量子态。
-
-### 1.3 本文研究思路
-
-洛伦兹力在科研中的应用极其广泛。如果简单罗列实例，虽然能够满足数量要求，却难以展现其在现代科学中的整体地位。
-
-因此，本文采用“粒子操控能力的发展”作为主线，按照“带电粒子—粒子束—等离子体—原子系统”的逻辑顺序，对洛伦兹力在现代科研中的应用进行调研。通过这一视角，不仅能够展示洛伦兹力在不同领域中的具体作用，也能够揭示现代实验技术之间的内在联系。
-
-## 二、利用洛伦兹力控制带电粒子——现代科研仪器的基础
-
-### 2.1 质谱分析技术
-
-#### 应用1：质谱仪
-
-质谱仪是洛伦兹力最经典的应用之一。实验中首先将样品电离形成离子束，再利用电场加速离子，随后通过磁场使离子发生偏转。由于不同离子的荷质比不同，因此在磁场中的运动轨迹也不同，从而实现离子分离与检测。
-
-质谱仪广泛应用于化学分析、生物医学、环境监测以及材料科学研究，是现代实验室最重要的分析工具之一。
-
-#### 应用2：同位素分离
-
-同位素之间化学性质相似，但质量不同。利用带电同位素离子在磁场中的偏转半径差异，可以实现同位素分离。
-
-这一技术被广泛用于核工业、核医学以及基础核物理研究。例如铀-235和铀-238的分离便依赖于荷质比差异带来的轨道偏转效应。
-
-#### 应用3：放射性年代测定
-
-加速器质谱技术能够精确测量样品中的微量放射性同位素含量。例如碳-14测年法就是通过检测碳同位素比例推断样品年代。
-
-该技术已广泛应用于考古学、地质学和古气候研究，为研究地球和人类历史提供了重要手段。
-
-### 2.2 粒子加速器技术
-
-#### 应用4：回旋加速器
-
-回旋加速器利用垂直磁场使带电粒子做圆周运动，同时利用交变电场不断为粒子提供能量。
-
-随着粒子速度提高，其运动轨道逐渐扩大，从而获得越来越高的动能。回旋加速器广泛应用于核物理研究和医用同位素生产。
-
-#### 应用5：同步加速器
-
-同步加速器能够随着粒子能量提高同步调整磁场强度，使粒子始终保持在固定轨道上运行。
-
-与传统回旋加速器相比，同步加速器能够获得更高能量，因此成为现代高能物理实验的重要设备。
-
-#### 应用6：储存环
-
-储存环是一种能够长时间保存高能粒子束的装置。磁场不断修正粒子运动轨迹，使粒子能够在环形轨道中循环运行。
-
-储存环不仅用于粒子物理研究，也广泛应用于同步辐射光源建设。
-
-#### 应用7：大型强子对撞机
-
-大型强子对撞机（LHC）是目前世界上能量最高的粒子加速器之一。实验中利用超导磁体产生极强磁场，通过洛伦兹力约束并引导质子束运动。
-
-2012年希格斯玻色子的发现便依赖于这一装置。它不仅验证了粒子物理标准模型的重要预言，也展示了洛伦兹力在探索物质基本结构中的重要作用。
-
-### 2.3 电子束技术
-
-#### 应用8：透射电子显微镜
-
-透射电子显微镜利用电磁透镜控制电子束运动，通过电子穿透样品形成高分辨率图像。
-
-其分辨率远高于光学显微镜，能够直接观察晶体缺陷和原子排列结构，是材料科学研究的重要工具。
-
-#### 应用9：扫描电子显微镜
-
-扫描电子显微镜利用聚焦电子束逐点扫描样品表面，通过探测二次电子形成图像。
-
-其特点是景深大、立体感强，广泛应用于微纳结构表征和失效分析。
-
-#### 应用10：电子束曝光技术
-
-电子束曝光利用高能电子束直接刻写纳米尺度图案。
-
-该技术是先进芯片制造和纳米器件研究的重要手段，在半导体工业和微电子技术中发挥着关键作用。
-
-### 2.4 本章小结
-
-本章介绍的十项应用虽然涉及不同领域，但其共同特点都是利用电磁场对带电粒子运动轨迹进行精确控制。通过这些技术，人类获得了认识和改造微观世界的能力，为后续更加复杂的粒子操控奠定了基础。
-
-## 三、利用洛伦兹力控制等离子体——迈向能源与空间探索
-
-### 3.1 磁约束聚变研究
-
-#### 应用11：Tokamak装置
-
-Tokamak（托卡马克）是当前最成熟的磁约束聚变装置。其核心思想是利用环向磁场和极向磁场共同形成螺旋磁力线结构。
-
-高温等离子体中的电子和离子在洛伦兹力作用下沿磁力线运动，从而避免直接撞击容器壁。由于聚变反应需要上亿摄氏度的高温环境，因此磁场实际上承担了“无形容器”的作用。
-
-目前中国EAST装置和国际热核聚变实验堆ITER均采用这一技术路线。
-
-#### 应用12：Stellarator仿星器
-
-仿星器是另一种重要的磁约束聚变装置。
-
-与Tokamak依赖等离子体电流不同，仿星器主要利用复杂的三维线圈直接产生约束磁场。带电粒子在洛伦兹力作用下被限制在封闭磁面附近运动。
-
-德国Wendelstein 7-X是目前世界领先的仿星器实验平台。该技术被认为有望实现更加稳定的长期聚变运行。
-
-#### 应用13：等离子体诊断技术
-
-聚变实验需要实时测量等离子体温度、密度以及流动状态。
-
-研究人员通过分析带电粒子在磁场中的回旋运动、辐射特征和轨道偏转情况，获取等离子体参数。这些测量方法本质上都建立在洛伦兹力规律基础之上。
-
-### 3.2 航天推进技术
-
-#### 应用14：霍尔推进器
-
-霍尔推进器利用电场加速离子，同时利用径向磁场限制电子运动。
-
-电子在洛伦兹力作用下形成环向漂移电流，从而提高推进效率。霍尔推进器具有高比冲、低燃料消耗等优点，广泛应用于卫星轨道维持和深空探测任务。
-
-#### 应用15：离子发动机
-
-离子发动机首先将推进剂电离形成等离子体，再利用电场加速离子喷出产生推力。
-
-磁场负责约束电子运动并维持放电过程稳定。虽然推力较小，但其效率远高于传统化学火箭，因此特别适合长期深空飞行任务。
-
-### 3.3 空间物理研究
-
-#### 应用16：地球磁层研究
-
-地球周围存在巨大的磁层结构。来自太阳的高能带电粒子进入磁层后受到洛伦兹力作用，沿磁力线运动。
-
-研究磁层中粒子的运动规律，有助于理解空间天气现象以及太阳活动对地球环境的影响。
-
-#### 应用17：太阳风研究
-
-太阳不断向外释放高速带电粒子流，即太阳风。
-
-太阳风粒子在行星际磁场中运动时受到洛伦兹力影响，其轨迹和能量分布决定了太阳风与行星磁层之间的相互作用。
-
-研究太阳风对于深空探测和空间环境预测具有重要意义。
-
-#### 应用18：极光形成机制研究
-
-极光是太阳风粒子进入地球磁层后沿磁力线运动并撞击高层大气产生的发光现象。
-
-洛伦兹力决定了带电粒子的运动路径，因此也是极光形成过程中的关键物理机制。通过研究极光，人们能够间接了解磁层结构和太阳活动规律。
-
-### 3.4 本章小结
-
-如果说第二章讨论的是对单个粒子和粒子束的控制，那么本章所涉及的对象已经扩展到由大量带电粒子组成的等离子体系统。无论是聚变能源研究还是深空探测技术，都体现了人类利用洛伦兹力控制复杂粒子系统的能力。下一步的发展方向，则是对更加精细的原子和量子系统进行操控，这也将引出本文后续讨论的超冷原子与玻色—爱因斯坦凝聚研究。
-
-## 第四章 利用磁场操控原子——从带电粒子到量子体系
-
-### 4.1 为什么中性原子也能受到磁场作用
-
-前文所讨论的质谱仪、粒子加速器和聚变装置，其控制对象均为带电粒子。然而，玻色—爱因斯坦凝聚实验中的研究对象却是电中性的原子气体。表面看来，中性原子似乎不应受到磁场影响，但事实并非如此。
-
-虽然原子整体呈电中性，但其内部电子始终处于运动状态。电子绕原子核运动以及电子自旋都会产生磁矩，因此原子本身具有一定的磁性。当原子处于外磁场中时，其磁矩会与磁场发生相互作用。
-
-设原子磁矩为μ，外磁场为B，则原子在磁场中的势能为：
-
-W=-μ·B
-
-这一关系表明，不同空间位置的磁场强度若不相同，原子便会受到势能梯度产生的作用力：
-
-F=-∇W
-
-因此，只要构造出空间分布不均匀的磁场，就能够实现对原子的束缚与操控。
-
-这意味着，人类不仅能够利用洛伦兹力控制带电粒子，还能够借助磁场间接控制中性原子，从而将粒子操控技术推进到更加精细的层次。
-
-#### 4.2 应用19：四极磁阱
-
-四极磁阱（Quadrupole Magnetic Trap）是最早用于囚禁中性原子的磁阱之一。
-
-其基本结构通常由一对反向通电线圈组成。在线圈中心附近形成磁场零点，而离开中心后磁场强度迅速增加。
-
-对于磁矩方向与磁场方向相反的原子而言，其势能会随着磁场增强而增大。因此原子会倾向于停留在磁场较弱区域，从而被限制在磁场中心附近。
-
-四极磁阱具有结构简单、易于实现等优点，在早期超冷原子实验中得到了广泛应用。然而，由于中心磁场为零，原子容易发生自旋翻转并逃离势阱，因此其稳定性存在一定限制。
-
-尽管如此，四极磁阱仍然是现代原子操控技术发展的重要起点。
-
-#### 4.3 应用20：Ioffe-Pritchard磁阱
-
-为了克服四极磁阱中心磁场为零的问题，科学家发展出了Ioffe-Pritchard磁阱。
-
-这种磁阱正是2001年诺贝尔物理学奖相关实验中广泛采用的重要装置之一。
-
-其核心思想是在四极磁场基础上叠加一个偏置磁场，使势阱中心保持非零磁场强度。这样便能够有效避免原子在中心区域发生自旋翻转，从而提高原子囚禁效率。
-
-从物理机制上看，Ioffe磁阱利用空间变化的磁场形成势阱，而磁场本身则来源于通电导线所产生的磁场分布。因此，虽然最终受到束缚的是中性原子，但其背后仍然建立在电磁场控制技术的发展基础之上。
-
-在超冷原子研究中，Ioffe磁阱长期被用作原子囚禁和蒸发冷却平台，是实现玻色—爱因斯坦凝聚的重要实验设备。
-
-#### 4.4 应用21：磁光阱（MOT）
-
-磁光阱（Magneto-Optical Trap）是现代原子物理实验室中最常见的原子捕获装置之一。
-
-其工作原理结合了磁场和激光两种控制手段。
-
-实验中，三个方向上分别布置相向传播的激光束，同时利用反亥姆霍兹线圈产生四极磁场。由于多普勒效应和塞曼效应的共同作用，偏离中心的原子会优先吸收能够减小其速度的光子。
-
-每吸收一个光子，原子都会获得一个反向动量，从而逐渐减速。
-
-经过大量吸收和发射过程后，原子的平均速度显著下降，最终被束缚在磁场中心附近。
-
-磁光阱能够将原子温度降低到毫开尔文甚至微开尔文量级，为后续更深层次冷却创造条件。
-
-#### 4.5 应用22：蒸发冷却技术
-
-激光冷却虽然能够显著降低原子温度，但仍不足以达到玻色—爱因斯坦凝聚所需的纳开尔文量级。
-
-因此科学家进一步发展出了蒸发冷却技术。
-
-其思想与日常生活中的蒸发降温十分相似。
-
-在一群原子中，高能原子的运动速度更快。如果人为降低势阱高度，那么能量较高的原子将优先逃离势阱。
-
-这些高能原子的离开会带走大量能量，从而降低剩余原子的平均能量。
-
-随后原子间发生重新热化过程，系统温度进一步下降。
-
-通过不断重复这一过程，可以将原子温度降低数个数量级，最终接近绝对零度。
-
-1995年首次实现玻色—爱因斯坦凝聚的实验中，蒸发冷却正是关键技术之一。
-
-#### 4.6 应用23：玻色—爱因斯坦凝聚态制备
-
-玻色—爱因斯坦凝聚态（BEC）的制备过程通常包括以下几个步骤：
-
-第一步，利用激光冷却降低原子温度；
-
-第二步，利用磁光阱捕获原子；
-
-第三步，将原子转移至磁阱中；
-
-第四步，通过蒸发冷却进一步降低温度；
-
-第五步，在极低温下形成玻色—爱因斯坦凝聚态。
-
-整个过程中，磁场控制技术贯穿始终。
-
-因此，BEC的实现不仅是量子统计理论的胜利，也是现代原子操控技术发展的重要成果。
-
-#### 4.7 应用24：原子钟
-
-原子钟是现代时间测量最精确的仪器。
-
-实验中需要利用磁场和激光对原子进行捕获与冷却，以消除热运动带来的频率展宽效应。
-
-超冷原子的应用使现代光学原子钟的相对误差达到10^-18量级。
-
-全球定位系统（GPS）、卫星导航和国际标准时间的建立都离不开原子钟技术。
-
-#### 4.8 应用25：原子干涉仪
-
-原子干涉仪利用原子的波动性进行精密测量。
-
-通过冷却和囚禁原子，可以显著延长原子相干时间，提高测量精度。
-
-目前原子干涉仪已广泛应用于重力测量、惯性导航、引力波探测以及基础物理常数测量等领域。
-
-它被认为是未来量子精密测量技术的重要发展方向。
-
-### 4.9 本章小结
-
-从磁阱到原子钟，从蒸发冷却到原子干涉仪，人类已经能够精确操控单个原子及其量子态。相比于前文讨论的粒子束和等离子体，这是一种更加精细、更接近量子极限的控制能力。而这种能力最终引领科学家进入玻色—爱因斯坦凝聚所揭示的全新量子世界。
-
-## 第五章 从磁阱到玻色—爱因斯坦凝聚——洛伦兹力在量子统计领域的作用
-
-### 5.1 玻色—爱因斯坦统计理论与凝聚临界条件的数学推导
-
-1924年，印度物理学家 Satyendra Nath Bose 提出了一种描述光子统计性质的新方法。随后，Albert Einstein 将这一思想推广到具有整数自旋的独立粒子体系，建立了玻色—爱因斯坦（BE）统计理论。
-
-按照量子力学观点，全同粒子可分为玻色子（自旋为整数）和费米子（自旋为半奇数）两类。玻色子遵循玻色—爱因斯坦分布，其平均能级占据数$n(E)$满足：
-
-$$
-n(E) = \frac{1}{e^{\beta(E - \mu)} - 1}
-$$
-
-式中，$\beta = \frac{1}{kT}$（$k$为玻尔兹曼常数，$T$为系统绝对温度），$\mu$为系统的化学势。由于占据数$n(E)$必须为非负实数，且基态能量通常设为$E_{0} = 0$，因此对于玻色系统，其化学势必须满足$\mu \leq 0$。与费米子受泡利不相容原理限制不同，玻色子允许无限多个粒子占据同一个量子态。这一微观统计特性正是玻色—爱因斯坦凝聚（BEC）现象的理论基石。
-
-为了从理论上导出凝聚的临界条件，我们考察包含$N$个全同玻色子的三维理想气体系统。系统的总粒子数$N$由各能级的粒子数求和决定。在热力学极限下，我们可以将激发态的求和化为能量空间的积分，但必须将基态（$E_{0} = 0$）单独抽离出来：
-
-$$
-N = N_{0} + N_{ex} = N_{0} + \int_{0}^{\infty}{g(E)n(E)dE}
-$$
-
-其中$N_{0}$为凝聚在基态的粒子数，$N_{ex}$为处于激发态的总粒子数。对于三维非相对论自由粒子，其状态密度（Density of States）$g(E)$为：
-
-$$
-g(E) = \frac{V}{4\pi^{2}}\left( \frac{2m}{\hslash^{2}} \right)^{3\text{/}2}\sqrt{E}
-$$
-
-将$g(E)$与$n(E)$代入激发态粒子数积分中：
-
-$$
-N_{ex} = \frac{V}{4\pi^{2}}\left( \frac{2m}{\hslash^{2}} \right)^{3\text{/}2}\int_{0}^{\infty}\frac{\sqrt{E}}{e^{\beta(E - \mu)} - 1}dE
-$$
-
-当系统降温时，为了容纳恒定的总粒子数$N$，化学势$\mu$会逐渐升高并趋向于 0。当$\mu = \ 0$时，激发态所能容纳的粒子数达到最大值$N_{ex}^{\max}$。令$x = \beta E = \frac{E}{kT}$，上式可化为：
-
-$$
-N_{ex}^{\max} = \frac{V}{4\pi^{2}}\left( \frac{2m}{\hslash^{2}} \right)^{3\text{/}2}(kT)^{3\text{/}2}\int_{0}^{\infty}\frac{x^{1\text{/}2}}{e^{x} - 1}dx
-$$
-
-利用数学上的伽马函数$\Gamma(s)$与黎曼$\zeta$函数的积分关系：
-
-$$
-\int_{0}^{\infty}\frac{x^{s - 1}}{e^{x} - 1}dx = \Gamma(s)\zeta(s)
-$$
-
-代入$s\  = \ 3\text{/}2$，已知$\Gamma\left( 3\text{/}2 \right) = \frac{\sqrt{\pi}}{2}$，而$\zeta\left( 3\text{/}2 \right) \approx 2.612$。积分项化简为：
-
-$$
-\int_{0}^{\infty}\frac{x^{1\text{/}2}}{e^{x} - 1}dx = \frac{\sqrt{\pi}}{2} \times 2.612
-$$
-
-从而得到激发态能容纳的最大粒子数密度为：
-
-$$
-n_{ex}^{\max} = \frac{N_{ex}^{\max}}{V} = 2.612\left( \frac{mkT}{2\pi\hslash^{2}} \right)^{3\text{/}2} = \frac{2.612}{\lambda_{dB}^{3}}
-$$
-
-其中$\lambda_{dB} = \sqrt{\frac{2\pi\hslash^{2}}{mkT}}$即为原子的热德布罗意波长。
-
-当系统实际的粒子数密度$n = \frac{N}{V} > n_{ex}^{\max}$时，多余的粒子将不得不“被迫”挤入基态$E_{0} = 0$，从而引发宏观量子凝聚。由此，我们定义凝聚发生的临界温度$T_{c}$满足$n = \frac{2.612}{\lambda_{dB}^{3}\left( T_{c} \right)}$，解得：
-
-$$
-T_{c} = \frac{2\pi\hslash^{2}}{mk}\left( \frac{n}{2.612} \right)^{2\text{/}3}
-$$
-
-当$T < T_{c}$时，凝聚在基态的粒子数占比$N_{0}\text{/}N$随温度的变化规律为：
-
-$$
-\frac{N_{0}}{N} = 1 - \left( \frac{T}{T_{c}} \right)^{3\text{/}2}
-$$
-
-这一数学解析式不仅完整揭示了温度与量子简并度之间的定量关系，也指明了实验实现 BEC 的根本途径：要么大幅提高原子数密度$\mathbf{n}$，要么将温度$\mathbf{T}$降低到微开尔文（$\mathbf{\mu}\text{K}$）甚至纳开尔文（$\text{nK}$）量级。
-
-### 5.2 玻色—爱因斯坦凝聚的物理图像
-
-在常温条件下，原子具有极高的热运动能量，其热德布罗意波长$\lambda_{dB}$远小于原子间的平均距离$d \sim n^{- 1\text{/}3}$。此时，原子各行其道，表现为经典的理想气体行为。
-
-随着温度$T$的不断降低，原子的平均速率减小，其量子特性的波动波长$\lambda_{dB} \propto T^{- 1\text{/}2}$逐渐增大。当温度降低到临界温度$T_{c}$时，热德布罗意波长增大到与原子间平均距离相当的尺度，即满足量子简并判据：
-
-$$
-n\lambda_{dB}^{3} \geq 2.612
-$$
-
-此时，由于波包不断弥散，不同原子的波函数开始发生显著的空间重叠，原子间全同性的量子相干效应开始主导系统行为。
-
-一旦越过$T_{c}$临界点，大量原子会突然脱离杂乱无章的热运动状态，自发聚集到能量最低的单粒子基态（量子基态）之中。在这状态下，原子的相位完全锁定，整个系统不再表现为大量独立粒子的统计集合，而是凝结成一个统一的、具有相干性的**宏观量子叠加态**（用一个统一的宏观波函数$\Psi\left( \mathbf{r},t \right) = \sqrt{n_{0}\left( \mathbf{r} \right)}e^{i\theta\left( \mathbf{r},t \right)}$描述）。这种从微观量子力学自发演进到宏观物理现象的过程，便是玻色—爱因斯坦凝聚的直观物理图像。
-
-### 5.3 BEC的实验里程碑与现代量子科技
-
-尽管玻色和爱因斯坦早在20世纪20年代便预言了这一奇特现象，但在实验上面临着近乎绝望的挑战。在极低温下，绝大多数物质都会先结晶变为固体。为了观测到纯粹的气态局域 BEC，系统必须保持在超稀薄气态（密度约为大气的十万分之一），这要求凝聚临界温度必须降至惊人的$10^{- 7}\,\text{K}$以下。
-
-直到1995年，技术的突破迎来了曙光。Eric Cornell 与 Carl Wieman 成功利用磁光阱与蒸发冷却技术，将铷（<sup>87</sup>Rb）原子气体冷却到$170\,\text{nK}$，首次观测到了玻色—爱因斯坦凝聚。同年，Wolfgang Ketterle 在钠（<sup>23</sup>Na）原子体系中也实现了更大规模的 BEC。这些重大的实验突破首次将70年前的理论预言变为现实，标志着超冷原子物理时代的正式到来。为此，Cornell、Wieman 和 Ketterle 三位科学家共同荣获了 2001年诺贝尔物理学奖。
-
-如今，BEC 已经跨越了最初的发现阶段，成为现代量子科技最核心的实验平台之一。依托 BEC，科学家们发展出了：
-
-1.**原子激光**：利用相干原子束输出，模拟传统光学激光，用于纳米刻蚀。
-
-2.**量子模拟**：用超冷原子在光晶格中的行为，去人工模拟固体中难以观测的强关联电子拓扑效应。
-
-3.**量子精密测量**：利用原子干涉仪构建出超高精度的陀螺仪与重力仪，进行广义相对论检验。
-
-### 5.4 Ioffe磁阱——经典电磁约束
-
-为了在空间囚禁这些电中性原子并防止其与容器壁碰撞升温，必须构建一个空间磁势阱。本节以笔者41届赛场上遇到的情境，即冷原子物理中经典的Ioffe-Pritchard磁势阱为例,具体题目与解答见附录。![image1.png](从粒子偏转到量子凝聚：洛伦兹力科研应用的尺度演进调研.assets/image1.png)
-
-#### 5.4.1 势阱磁场空间分布的级数展开
-
-如图所示，Ioffe势阱由四根横截面积可忽略、相互平行的无限长直导线组成。这四根导线垂直穿过一个边长分别为a和b的长方形的四个顶点，导线中通以大小相同但方向交错的电流I。以长方形中心O点为原点，建立右手直角坐标系。
-
-根据安培环路定理，一根通有电流I的无限长直导线在距离为$r$处产生的磁感应强度大小为：
-
-$$
-B = \frac{\mu_{0}I}{2\pi r}
-$$
-
-根据对称性，由于四个顶点的电流大小相等、方向交错，在原点$O(0,0,0)$处，四根导线产生的磁场矢量完全抵消，即$B(0) = 0$。
-
-对于原点附近的任意一点$P(x,y,0)$，其磁场的$z$分量由于长直导线的二维对称性恒为 0 。利用几何叠加，点P的磁场$x$分量和$y$分量可精确表达为：
-
-$$
-B_{x} = \frac{\mu_{0}I}{2\pi}\left\lbrack \frac{\frac{b}{2} - y}{\left( \frac{a}{2} + x \right)^{2} + \left( \frac{b}{2} - y \right)^{2}} + \frac{\frac{b}{2} + y}{\left( \frac{a}{2} + x \right)^{2} + \left( \frac{b}{2} + y \right)^{2}} - \frac{\frac{b}{2} - y}{\left( \frac{a}{2} - x \right)^{2} + \left( \frac{b}{2} - y \right)^{2}} - \frac{\frac{b}{2} + y}{\left( \frac{a}{2} - x \right)^{2} + \left( \frac{b}{2} + y \right)^{2}} \right\rbrack\quad
-$$
-
-$$
-B_{y} = \frac{\mu_{0}I}{2\pi}\left\lbrack \frac{\frac{a}{2} + x}{\left( \frac{a}{2} + x \right)^{2} + \left( \frac{b}{2} - y \right)^{2}} - \frac{\frac{a}{2} + x}{\left( \frac{a}{2} + x \right)^{2} + \left( \frac{b}{2} + y \right)^{2}} + \frac{\frac{a}{2} - x}{\left( \frac{a}{2} - x \right)^{2} + \left( \frac{b}{2} - y \right)^{2}} - \frac{\frac{a}{2} - x}{\left( \frac{a}{2} - x \right)^{2} + \left( \frac{b}{2} + y \right)^{2}} \right\rbrack
-$$
-
-在实验关心的近原点区域，由于原子被约束在极小空间内，满足小量近似条件$x\  \ll a$且$y\  \ll b$。我们将上式分母项展开并保留至$x$和$y$的一阶项（高阶项$\mathcal{O}\left( x^{2},y^{2} \right)$忽略）。 对$B_{x}$展开可得：
-
-$$
-B_{x} \approx \frac{\mu_{0}I}{2\pi} \cdot \left( - \frac{64ab}{\left( a^{2} + b^{2} \right)^{2}} \right)x = - \frac{16\mu_{0}abI}{\pi\left( a^{2} + b^{2} \right)^{2}}x\quad
-$$
-
-同理对$B_{y}$展开可得：
-
-$$
-B_{y} \approx \frac{16\mu_{0}abI}{\pi\left( a^{2} + b^{2} \right)^{2}}y\quad
-$$
-
-为了表达简洁，引入势阱的结构常量（即磁场梯度）$\alpha$：
-
-$$
-\alpha = \frac{16\mu_{0}abI}{\pi\left( a^{2} + b^{2} \right)^{2}}
-$$
-
-由此，在$x - y$平面内原点附近的任意点$P$的磁感应强度大小为：
-
-$$
-B(x,y) = \sqrt{B_{x}^{2} + B_{y}^{2}} = \alpha\sqrt{x^{2} + y^{2}} = \alpha r\quad
-$$
-
-这说明在势阱中心附近，磁场大小与中心距离$r$呈线性空间非均匀分布 。
-
-#### 5.4.2 中性原子在非均匀磁场中的受力机制
-
-对于处于该场中的原子，其原子尺度内的微小电流圈对应的固有磁矩为$\mathbf{S}$（或$\mathbf{\mu}$）。该电流圈在局域磁场中所受的力矩为：
-
-$$
-\mathbf{M} = \mathbf{S} \times \mathbf{B}\quad
-$$
-
-规定磁矩与磁场垂直（$\theta = \ \pi\text{/}2$）时的相互作用势能为 0 。当磁矩与磁场夹角为$\theta$时，力矩所做的功等于势能的减少量，即：
-
-$$
-W_{m}(\theta) = - \int_{\pi\text{/}2}^{\theta}\mathbf{M} \cdot d\mathbf{\theta}' = - \int_{\pi\text{/}2}^{\theta}{SB}\sin\theta'd\theta' = - SB\cos\theta = - \mathbf{S} \cdot \mathbf{B}\quad
-$$
-
-在真实实验中，通过射频场（RF）等人工调控手段，使被捕获的原子的磁矩方向始终与局域磁场方向相反（即保持$\theta = \ \pi$，属于弱场寻求者 Low-field seeker） 。此时原子在磁场中的相互作用势能化简为正值：
-
-$$
-W_{m} = SB = \alpha S\sqrt{x^{2} + y^{2}}
-$$
-
-根据保守场中力与势能的梯度关系$\mathbf{F} = - \nabla W_{m}$，原子在$x$和$y$方向上承受的磁场恢复力分别为：
-
-$$
-F_{x} = - S\frac{\partial B}{\partial x} = - \alpha S\frac{x}{\sqrt{x^{2} + y^{2}}} = - \alpha S\frac{x}{r}\quad
-$$
-
-$$
-F_{y} = - S\frac{\partial B}{\partial y} = - \alpha S\frac{y}{\sqrt{x^{2} + y^{2}}} = - \alpha S\frac{y}{r}
-$$
-
-恢复力的大小为恒定值$F\  = \ \alpha S$，且方向矢量$\mathbf{F} = - \alpha S\frac{\mathbf{r}}{r}$始终指向原点$O$（磁场最低点） 。这种有心力机制类似于锥形弹性势阱，能够强制约束原子的热运动，将电中性原子稳稳地囚禁在中心轴线附近，为下一步冷却奠定了空间动力学基础 。
-
-### 5.5 蒸发冷却（Evaporative Cooling）
-
-#### 5.5.1 初始均匀密度原子团的能量积分
-
-设定一团包含$N_{1}$个原子的气体被囚禁在 Ioffe 势阱形成的半径为$R_{1}$、高度为$H$的圆柱形区域内，原子的面平均密度近似为均匀分布$n$。以$O$点为势能零点，根据上一节公式，原子在位置$r$处的约束势能为：
-
-$$
-W_{m}(r) = \alpha Sr\quad
-$$
-
-我们在圆柱截面上对整个原子团进行积分。系统总原子数$N_{1}$为：
-
-$$
-N_{1} = \int_{0}^{R_{1}}n \cdot 2\pi rdr = n\pi R_{1}^{2}
-$$
-
-原子团在外磁场中所具有的总势能$E_{1}$为：
-
-$$
-E_{1} = \int_{0}^{R_{1}}{W_{m}(r)} \cdot n \cdot 2\pi rdr = \int_{0}^{R_{1}}(\alpha Sr) \cdot n \cdot 2\pi rdr
-$$
-
-$$
-= 2\pi n\alpha S\int_{0}^{R_{1}}{r^{2}dr} = \frac{2}{3}\pi n\alpha SR_{1}^{3}\quad
-$$
-
-因此，初始状态下，原子在势阱中的平均势能${\overline{E}}_{1}$为：
-
-$$
-{\overline{E}}_{1} = \frac{E_{1}}{N_{1}} = \frac{\frac{2}{3}\pi n\alpha SR_{1}^{3}}{n\pi R_{1}^{2}} = \frac{2}{3}\alpha SR_{1}\quad
-$$
-
-#### 5.5.2 蒸发收缩后的能量流失计算
-
-实验中，若通过施加特定频率的射频场“切掉”势阱边缘高能原子，使剩余原子缓慢冷却并向中心收缩。假设收缩后原子团半径减小为：
-
-$$
-R_{2} = \frac{R_{1}}{5}
-$$
-
-若在冷却收缩过程中，系统的原子密度仍保持初始密度$n$不变 ，那么在收缩后的新圆柱区域内，剩余的总原子数$N_{2}$变为：
-
-$$
-N_{2} = n\pi R_{2}^{2} = n\pi\left( \frac{R_{1}}{5} \right)^{2} = \frac{N_{1}}{25}
-$$
-
-新状态下原子团的总势能$E_{2}$为：
-
-$$
-E_{2} = \frac{2}{3}\pi n\alpha SR_{2}^{3} = \frac{2}{3}\pi n\alpha S\left( \frac{R_{1}}{5} \right)^{3} = \frac{E_{1}}{125}
-$$
-
-此时，冷却后原子团中单个原子的平均势能${\overline{E}}_{2}$降低为：
-
-$$
-{\overline{E}}_{2} = \frac{E_{2}}{N_{2}} = \frac{2}{3}\alpha SR_{2} = \frac{2}{3}\alpha S\left( \frac{R_{1}}{5} \right) = \frac{{\overline{E}}_{1}}{5}\quad
-$$
-
-根据维里定理（Virial Theorem），在非均匀磁阱这类线性势阱（$W \propto r^{1}$）中，气体原子的平均动能${\overline{E}}_{k}$与平均势能${\overline{E}}_{p}$满足定量平衡关系：
-
-$$
-{\overline{E}}_{k} = \frac{1}{2}{\overline{E}}_{p}
-$$
-
-这意味着系统的热力学温度$T \propto {\overline{E}}_{k} \propto {\overline{E}}_{p}$。当平均势能${\overline{E}}_{2}$衰减为原来的$\frac{1}{5}$时 ，系统的整体温度同步下降为初始温度的五分之一（$T_{2} = \frac{1}{5}T_{1}$）。高能原子的主动逸出带走了绝大部分系统热量，通过这种持续的“自我解热”，原子系统最终跨越了量子相干的最后屏障，达到了临界温度$T_{c}$。
-
-### 5.6 洛伦兹力在BEC中的地位
-
-从表面的理论形式来看，玻色—爱因斯坦凝聚属于量子统计物理学的范畴，其核心规律由 BE 分布及原子的自旋波函数决定，公式中并未直接包含经典洛伦兹力（$\mathbf{F} = q\mathbf{v} \times \mathbf{B}$）的身影。然而，若从实验实现这一本质维度进行溯源，两者的内在物理逻辑存在着不可分割的统一性：
-
-1.  **安培力的微观本质：** 如 5.4 节推导所示，Ioffe 磁阱约束中性原子的物理机制是梯度力$\nabla\left( \mathbf{S} \cdot \mathbf{B} \right)$。原子的宏观自旋磁矩，本质上来源于电子绕核运动的微观轨道电流以及电子自旋的安培环路贡献。磁场对电流圈施加的安培力矩，其微观本质正是运动电子在磁场中承受的洛伦兹力的统计平均。因此，中性原子受到的电磁调控，仍是洛伦兹力在束缚态宏观体现的延伸。
-
-2.  **现代控制技术的物理根基：**无论是用于初始减速的塞曼减速器（Zeeman slower）、控制原子的磁光阱（MOT），还是产生强梯度的超导线圈，其核心技术均建立在对运动电子束的极端精确调控上。人类操纵电中性原子的能力，完全继承并衍生于人类百年来通过洛伦兹力操控带电粒子（如质谱仪、加速器）的技术积淀。
-
-### 5.7 全文总结
-
-从质谱仪中一粒离子的经典偏转，到大型强子对撞机内高能质子束的相对论聚焦；从可控核聚变托卡马克装置中亿度高温等离子体的刚性磁约束，到 Ioffe 磁阱内超冷原子的纳开尔文量子囚禁，人类利用电磁场控制微观粒子的历史，构成了一幅宏大的科学史诗。
-
-在这一演进历程中，洛伦兹力始终扮演着最基础、最核心的底层物理角色。它不仅直接推动了高能粒子物理、受控核聚变及微纳半导体输运的发展，更间接支撑了玻色—爱因斯坦凝聚等现代前沿宏观量子现象的实验发现。通过本篇报告的系统调研，我们清晰地看到，一条诞生于经典电动力学、看似简单的动力学规律，实际上犹如一条隐秘的丝线，贯穿了现代物理学从宏观粒子偏转到微观量子态操纵的全部进化史。这也充分彰显了基础物理规律所蕴含的、历久弥新的跨界生命力。
-
-## 六、总结
-
-在完成本次调研之前，我对于洛伦兹力的认识更多停留在大学物理教材中的基本公式，以及高中物理竞赛中关于带电粒子运动的各种模型分析。彼时的我更多关注的是如何利用公式求解轨迹、计算半径和确定运动规律，而较少思考这些物理规律在真实科研中的作用。
-
-通过本次调研，我逐渐意识到，洛伦兹力远不只是电磁学中的一条基础定律。从质谱仪中的离子偏转，到粒子加速器中的高能粒子束控制；从聚变装置中的等离子体约束，到航天推进中的霍尔推进器；再到超冷原子实验中的磁阱、蒸发冷却以及玻色—爱因斯坦凝聚的实现，洛伦兹力始终贯穿其中。它不仅帮助科学家认识微观世界，更成为人类主动操控微观世界的重要工具。
-
-在调研过程中，我尤其关注了玻色—爱因斯坦凝聚这一现代物理的重要成果。其理论基础属于量子统计物理，与经典电磁学看似相距甚远；然而深入了解后却发现，实现玻色—爱因斯坦凝聚所依赖的磁阱技术、原子囚禁和蒸发冷却过程，都离不开电磁场控制技术的发展。沿着这条技术路线继续追溯，又能够回到电流产生磁场以及带电粒子运动等更加基础的物理规律。正是在这种层层递进的联系中，我重新认识了洛伦兹力在现代科学体系中的地位。
-
-## 七、结语
-
-行文至此，很高兴能借此机会去回头看看自己两年前在物竞赛场、在南师附中留下的那一点微不足道的痕迹。再一次回味起这段旅程，惊奇地发现自己原来还能会想起那年复赛四个小时经历的每一次起伏。那四个小时，那两年，那些在阶3、503、集备室、录2、实验楼106的日夜，留给我的从来不止一纸证书，而是少年心气、是面对未知时的无畏探索，更是对自己人生方向的深刻体认。
-
-自复赛尘埃落定后，我似乎再没有机会去好好亲近曾经誓言“要一直学下去”的物理。物理竞赛是一面镜子，它让我清醒地认识到自己也许并不适合去物理学的最前沿创造些什么，我只是纯粹地想要去了解这个世界——以数学物理的方式。正是这种在碰撞中产生的自我认知，指引我选择了如今的专业。感谢田老师布置的这篇调研，让我在两年之后还会再去看一看当年那张复赛卷，去完成T5当年自己在考场上只完成了一半的推导，去跳出计算题本身看到它背后量子统计世界的本质。
-
-物理竞赛教会了我很多，不只是世界的基本原理，还让我在某种意义上想通了自己努力的意义、自己想得到什么，而两年之后，重新回头去看玻色-爱因斯坦分布，看到的不只是洛伦兹力，更是那个集备室里意气风发的自己。**一切宛如挪动过的复写纸，无不同原有位置，有着少许然而却是无法挽回的差异。**
-
-后来的两年经历了大起大落，也似乎不再能见到曾经那个果断脱产、目标清晰而理想主义的自己，开始惶惶而不知走向何处。人们总说，不要去责怪曾经的自己，他那时站在雾里也很迷茫而无力。也许，对我而言，这句话应该反过来，我似乎不像过去的自己期待的那样勇猛精进，似乎被远广阔与当年的世界，远复杂于当年的是非迷了眼。我也多想找回当年的自己，当下的迷茫、不知所措或是停滞不前在那个我面前好像是那么的不堪一击。
-
-**我们无法衡量时间的价值，直到那一瞬间成为永恒。**
-
-但至少，我还没有放弃奔跑，没有放弃去追逐曾经那个意气风发、无所不能的自己。
-
-谨以此文致曾经的那个物竞生。
-
-2026年5月31日 于家中
-27d:["$","$L27b","post-0015bcf3-d0de-4bf5-be48-23f45e1f838a",{"entry":{"slug":"post-0015bcf3-d0de-4bf5-be48-23f45e1f838a","title":"从粒子偏转到量子凝聚：洛伦兹力科研应用的尺度演进调研","date":"2026-05-31","category":"技术","summary":"","cover":"","sample":false,"sections":[{"title":"","text":""}],"markdown":"$32a"}}]
 280:null
 281:["$","span","span-2",{"className":"mrel","children":"="}]
 282:["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2778em"}}]
@@ -1451,9 +953,9 @@ $$
 2a5:["$","span","span-13",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
 2a6:["$","span","span-14",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]]}]
 2a7:["$","span","span-15",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
-2a8:["$","span","span-16",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.565em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"2"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord mathnormal","style":{"marginRight":"0.0037em"},"children":"α"}],["$","span","span-5",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-6",{"className":"minner","children":[["$","span","span-0",{"className":"mopen delimcenter","style":{"top":"0em"},"children":"("}],["$","span","span-1",{"className":"mop","children":"cos"}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-3",{"className":"mord mathnormal","children":"x"}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-5",{"className":"mbin","children":"+"}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-7",{"className":"mop","children":"cos"}],["$","span","span-8",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-9",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-10",{"className":"mclose delimcenter","style":{"top":"0em"},"children":")"}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"1"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.888em"},"children":"$L32b"}]}]}]}]]}]]}]]}]]}],"$L32c"]}],"$L32d"]}]}],"$L32e"]}],"$L32f","$L330","$L331","$L332"]}]]}]
-2a9:["$","span","span-1",{"style":{"top":"-3.593em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3.565em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-2",{"className":"mrel","children":"="}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-4",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.3214em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"4"}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"π"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.7401em"},"children":["$","span","span-0",{"style":{"top":"-2.989em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}]}]}]}]}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":["$","span","span-0",{"className":"mord","children":"1"}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.686em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-5",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-6",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-7",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-8",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":["$L333","$L334"]}]}]]}],"$L335","$L336"]}]]}]]}]
-2aa:["$","span","span-2",{"style":{"top":"-0.7577em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3.565em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-2",{"className":"mrel","children":"="}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-4",{"className":"mord","children":"−"}],["$","span","span-5",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.3603em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"8"}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"π"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.7401em"},"children":["$","span","span-0",{"style":{"top":"-2.989em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}]}]}]}]}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0785em"},"children":"I"}],["$","span","span-1",{"className":"mord mathnormal","style":{"marginRight":"0.0278em"},"children":"r"}]]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.686em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-7",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-8",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-9",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],"$L337"]}],"$L338","$L339"]}]]}]]}]
+2a8:["$","span","span-16",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.565em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"2"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord mathnormal","style":{"marginRight":"0.0037em"},"children":"α"}],["$","span","span-5",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-6",{"className":"minner","children":[["$","span","span-0",{"className":"mopen delimcenter","style":{"top":"0em"},"children":"("}],["$","span","span-1",{"className":"mop","children":"cos"}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-3",{"className":"mord mathnormal","children":"x"}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-5",{"className":"mbin","children":"+"}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-7",{"className":"mop","children":"cos"}],["$","span","span-8",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-9",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-10",{"className":"mclose delimcenter","style":{"top":"0em"},"children":")"}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"1"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.888em"},"children":"$L32a"}]}]}]}]]}]]}]]}]]}],"$L32b"]}],"$L32c"]}]}],"$L32d"]}],"$L32e","$L32f","$L330","$L331"]}]]}]
+2a9:["$","span","span-1",{"style":{"top":"-3.593em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3.565em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-2",{"className":"mrel","children":"="}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-4",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.3214em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"4"}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"π"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.7401em"},"children":["$","span","span-0",{"style":{"top":"-2.989em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}]}]}]}]}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":["$","span","span-0",{"className":"mord","children":"1"}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.686em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-5",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-6",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-7",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-8",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":["$L332","$L333"]}]}]]}],"$L334","$L335"]}]]}]]}]
+2aa:["$","span","span-2",{"style":{"top":"-0.7577em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3.565em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-2",{"className":"mrel","children":"="}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-4",{"className":"mord","children":"−"}],["$","span","span-5",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.3603em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"8"}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"π"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.7401em"},"children":["$","span","span-0",{"style":{"top":"-2.989em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}]}]}]}]}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.0785em"},"children":"I"}],["$","span","span-1",{"className":"mord mathnormal","style":{"marginRight":"0.0278em"},"children":"r"}]]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.686em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-7",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-8",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-9",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol large-op","style":{"marginRight":"0.4445em","position":"relative","top":"-0.0011em"},"children":"∫"}],"$L336"]}],"$L337","$L338"]}]]}]]}]
 2ab:["$","span","span-1",{"className":"vlist-s","children":"​"}]
 2ac:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"3.7776em"},"children":["$","span","span-0",{}]}]}]
 2ad:["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}]
@@ -1464,10 +966,10 @@ $$
 2b2:["$","span","span-11",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
 2b3:["$","span","span-12",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol small-op","style":{"marginRight":"0.1945em","position":"relative","top":"-0.0006em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.8593em"},"children":[["$","span","span-0",{"style":{"top":"-2.3442em","marginLeft":"-0.1945em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.2579em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4142em"},"children":["$","span","span-0",{}]}]}]]}]}]]}]
 2b4:["$","span","span-13",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
-2b5:["$","span","span-14",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol small-op","style":{"marginRight":"0.1945em","position":"relative","top":"-0.0006em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.8593em"},"children":[["$","span","span-0",{"style":{"top":"-2.3442em","marginLeft":"-0.1945em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.2579em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4142em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.01em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"2"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"−"}],["$","span","span-6",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-7",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.485em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"1"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mopen mtight","children":"("}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-6",{"className":"mbin mtight","children":"+"}],["$","span","span-7",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],"$L33a"]}]}]]}]]}],"$L33b"]}],"$L33c"]}]}],"$L33d"]}],"$L33e","$L33f"]}]
+2b5:["$","span","span-14",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol small-op","style":{"marginRight":"0.1945em","position":"relative","top":"-0.0006em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.8593em"},"children":[["$","span","span-0",{"style":{"top":"-2.3442em","marginLeft":"-0.1945em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.2579em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4142em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.01em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"2"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"−"}],["$","span","span-6",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-7",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.485em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"1"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mopen mtight","children":"("}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-6",{"className":"mbin mtight","children":"+"}],["$","span","span-7",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],"$L339"]}]}]]}]]}],"$L33a"]}],"$L33b"]}]}],"$L33c"]}],"$L33d","$L33e"]}]
 2b6:["$","span","span-15",{"className":"mord mathnormal","children":"d"}]
 2b7:["$","span","span-16",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
-2b8:["$","span","span-1",{"style":{"top":"-2.25em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3.01em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.2222em"},"children":"V"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.888em"},"children":["$","span","span-0",{"style":{"top":"-3.063em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mopen mtight","children":"("}],["$","span","span-1",{"className":"mord mtight","children":"2"}],["$","span","span-2",{"className":"mclose mtight","children":")"}]]}]}]]}]}]}]}]}]]}],["$","span","span-1",{"className":"mopen","children":"("}],["$","span","span-2",{"className":"mord mathnormal","children":"m"}],["$","span","span-3",{"className":"mpunct","children":","}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-5",{"className":"mord mathnormal","children":"n"}],["$","span","span-6",{"className":"mclose","children":")"}],["$","span","span-7",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-8",{"className":"mrel","children":"="}],["$","span","span-9",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-10",{"className":"mord","children":"−"}],["$","span","span-11",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.8723em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"8"}],["$","span","span-1",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.7463em"},"children":["$","span","span-0",{"style":{"top":"-2.786em","marginRight":"0.0714em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.5em"}}],["$","span","span-1",{"className":"sizing reset-size3 size1 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}]}]}]}]}]]}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.394em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0785em"},"children":"I"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0278em"},"children":"r"}]]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.345em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-12",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-13",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol small-op","style":{"marginRight":"0.1945em","position":"relative","top":"-0.0006em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":["$L340","$L341"]}],"$L342"]}]}]]}],"$L343","$L344","$L345","$L346"]}]]}]
+2b8:["$","span","span-1",{"style":{"top":"-2.25em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3.01em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.2222em"},"children":"V"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.888em"},"children":["$","span","span-0",{"style":{"top":"-3.063em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mopen mtight","children":"("}],["$","span","span-1",{"className":"mord mtight","children":"2"}],["$","span","span-2",{"className":"mclose mtight","children":")"}]]}]}]]}]}]}]}]}]]}],["$","span","span-1",{"className":"mopen","children":"("}],["$","span","span-2",{"className":"mord mathnormal","children":"m"}],["$","span","span-3",{"className":"mpunct","children":","}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-5",{"className":"mord mathnormal","children":"n"}],["$","span","span-6",{"className":"mclose","children":")"}],["$","span","span-7",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-8",{"className":"mrel","children":"="}],["$","span","span-9",{"className":"mspace","style":{"marginRight":"0.2778em"}}],["$","span","span-10",{"className":"mord","children":"−"}],["$","span","span-11",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.8723em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"8"}],["$","span","span-1",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.7463em"},"children":["$","span","span-0",{"style":{"top":"-2.786em","marginRight":"0.0714em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.5em"}}],["$","span","span-1",{"className":"sizing reset-size3 size1 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mtight","children":"2"}]}]}]]}]}]}]}]}]]}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.394em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0785em"},"children":"I"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0278em"},"children":"r"}]]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.345em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-12",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-13",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol small-op","style":{"marginRight":"0.1945em","position":"relative","top":"-0.0006em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":["$L33f","$L340"]}],"$L341"]}]}]]}],"$L342","$L343","$L344","$L345"]}]]}]
 2b9:["$","span","span-1",{"className":"vlist-s","children":"​"}]
 2ba:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"1.2411em"},"children":["$","span","span-0",{}]}]}]
 2bb:["$","span","span-2",{"className":"arraycolsep","style":{"width":"0.5em"}}]
@@ -1581,42 +1083,42 @@ $$
 327:["$","span","span-4",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
 328:["$","span","span-5",{"className":"mord mathnormal","children":"d"}]
 329:["$","span","span-6",{"className":"mord mathnormal","style":{"marginRight":"0.044em"},"children":"z"}]
-32b:["$","span","span-0",{"style":{"top":"-3.063em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-1",{"className":"mopen mtight","children":"("}],["$","span","span-2",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-4",{"className":"mbin mtight","children":"+"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-6",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-7",{"className":"mclose mtight","children":")"}]]}]}]]}]
-32c:["$","span","span-1",{"className":"vlist-s","children":"​"}]
-32d:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.936em"},"children":["$","span","span-0",{}]}]}]
-32e:["$","span","span-2",{"className":"mclose nulldelimiter"}]
-32f:["$","span","span-1",{"className":"mord mathnormal","children":"d"}]
-330:["$","span","span-2",{"className":"mord mathnormal","children":"x"}]
-331:["$","span","span-3",{"className":"mord mathnormal","children":"d"}]
-332:["$","span","span-4",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
-333:["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}]
-334:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]
-335:["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
-336:["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.1389em"},"children":"F"}],["$","span","span-1",{"className":"mopen","children":"("}],["$","span","span-2",{"className":"mord mathnormal","children":"x"}],["$","span","span-3",{"className":"mpunct","children":","}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-5",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-6",{"className":"mclose","children":")"}],["$","span","span-7",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.938em"},"children":["$","span","span-0",{"style":{"top":"-3.113em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-2",{"className":"mopen mtight","children":"("}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"+"}],["$","span","span-6",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-7",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-8",{"className":"mclose mtight","children":")"}]]}]}]]}]}]}]}]}]]}],["$","span","span-8",{"className":"mord mathnormal","children":"d"}],["$","span","span-9",{"className":"mord mathnormal","children":"x"}],["$","span","span-10",{"className":"mord mathnormal","children":"d"}],["$","span","span-11",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]]}]
-337:["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]
-338:["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
-339:["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.565em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"2"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord mathnormal","style":{"marginRight":"0.0037em"},"children":"α"}],["$","span","span-5",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-6",{"className":"minner","children":[["$","span","span-0",{"className":"mopen delimcenter","style":{"top":"0em"},"children":"("}],["$","span","span-1",{"className":"mop","children":"cos"}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-3",{"className":"mord mathnormal","children":"x"}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-5",{"className":"mbin","children":"+"}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-7",{"className":"mop","children":"cos"}],["$","span","span-8",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-9",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-10",{"className":"mclose delimcenter","style":{"top":"0em"},"children":")"}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"1"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.888em"},"children":["$","span","span-0",{"style":{"top":"-3.063em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-1",{"className":"mopen mtight","children":"("}],["$","span","span-2",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-4",{"className":"mbin mtight","children":"+"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-6",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-7",{"className":"mclose mtight","children":")"}]]}]}]]}]}]}]}]}]]}]]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.936em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.938em"},"children":["$","span","span-0",{"style":{"top":"-3.113em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],"$L347"]}]}]}]}]}]]}],"$L348","$L349","$L34a","$L34b"]}]
-33a:["$","span","span-9",{"className":"mclose mtight","children":")"}]
-33b:["$","span","span-1",{"className":"vlist-s","children":"​"}]
-33c:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4811em"},"children":["$","span","span-0",{}]}]}]
-33d:["$","span","span-2",{"className":"mclose nulldelimiter"}]
-33e:["$","span","span-3",{"className":"mord mathnormal","children":"d"}]
-33f:["$","span","span-4",{"className":"mord mathnormal","children":"x"}]
-340:["$","span","span-0",{"className":"vlist","style":{"height":"0.8593em"},"children":[["$","span","span-0",{"style":{"top":"-2.3442em","marginLeft":"-0.1945em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.2579em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}]
-341:["$","span","span-1",{"className":"vlist-s","children":"​"}]
-342:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4142em"},"children":["$","span","span-0",{}]}]}]
-343:["$","span","span-14",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
-344:["$","span","span-15",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol small-op","style":{"marginRight":"0.1945em","position":"relative","top":"-0.0006em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.8593em"},"children":[["$","span","span-0",{"style":{"top":"-2.3442em","marginLeft":"-0.1945em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.2579em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4142em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.01em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"2"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"−"}],["$","span","span-6",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-7",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.485em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"1"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mopen mtight","children":"("}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-6",{"className":"mbin mtight","children":"+"}],["$","span","span-7",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],"$L34c"]}]}]]}]]}],"$L34d"]}],"$L34e"]}]}],"$L34f"]}],"$L350","$L351"]}]
-345:["$","span","span-16",{"className":"mord mathnormal","children":"d"}]
-346:["$","span","span-17",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
-347:["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-2",{"className":"mopen mtight","children":"("}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"+"}],["$","span","span-6",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-7",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-8",{"className":"mclose mtight","children":")"}]]}]}]
-348:["$","span","span-2",{"className":"mord mathnormal","children":"d"}]
-349:["$","span","span-3",{"className":"mord mathnormal","children":"x"}]
-34a:["$","span","span-4",{"className":"mord mathnormal","children":"d"}]
-34b:["$","span","span-5",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
-34c:["$","span","span-9",{"className":"mclose mtight","children":")"}]
-34d:["$","span","span-1",{"className":"vlist-s","children":"​"}]
-34e:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4811em"},"children":["$","span","span-0",{}]}]}]
-34f:["$","span","span-2",{"className":"mclose nulldelimiter"}]
-350:["$","span","span-3",{"className":"mord mathnormal","children":"d"}]
-351:["$","span","span-4",{"className":"mord mathnormal","children":"x"}]
+32a:["$","span","span-0",{"style":{"top":"-3.063em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-1",{"className":"mopen mtight","children":"("}],["$","span","span-2",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-4",{"className":"mbin mtight","children":"+"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-6",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-7",{"className":"mclose mtight","children":")"}]]}]}]]}]
+32b:["$","span","span-1",{"className":"vlist-s","children":"​"}]
+32c:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.936em"},"children":["$","span","span-0",{}]}]}]
+32d:["$","span","span-2",{"className":"mclose nulldelimiter"}]
+32e:["$","span","span-1",{"className":"mord mathnormal","children":"d"}]
+32f:["$","span","span-2",{"className":"mord mathnormal","children":"x"}]
+330:["$","span","span-3",{"className":"mord mathnormal","children":"d"}]
+331:["$","span","span-4",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
+332:["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}]
+333:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]
+334:["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
+335:["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","style":{"marginRight":"0.1389em"},"children":"F"}],["$","span","span-1",{"className":"mopen","children":"("}],["$","span","span-2",{"className":"mord mathnormal","children":"x"}],["$","span","span-3",{"className":"mpunct","children":","}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-5",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-6",{"className":"mclose","children":")"}],["$","span","span-7",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.938em"},"children":["$","span","span-0",{"style":{"top":"-3.113em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-2",{"className":"mopen mtight","children":"("}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"+"}],["$","span","span-6",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-7",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-8",{"className":"mclose mtight","children":")"}]]}]}]]}]}]}]}]}]]}],["$","span","span-8",{"className":"mord mathnormal","children":"d"}],["$","span","span-9",{"className":"mord mathnormal","children":"x"}],["$","span","span-10",{"className":"mord mathnormal","children":"d"}],["$","span","span-11",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]]}]
+336:["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.4143em"},"children":[["$","span","span-0",{"style":{"top":"-1.7881em","marginLeft":"-0.4445em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.8129em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.9703em"},"children":["$","span","span-0",{}]}]}]]}]}]
+337:["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
+338:["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.565em"},"children":[["$","span","span-0",{"style":{"top":"-2.314em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"2"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord mathnormal","style":{"marginRight":"0.0037em"},"children":"α"}],["$","span","span-5",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-6",{"className":"minner","children":[["$","span","span-0",{"className":"mopen delimcenter","style":{"top":"0em"},"children":"("}],["$","span","span-1",{"className":"mop","children":"cos"}],["$","span","span-2",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-3",{"className":"mord mathnormal","children":"x"}],["$","span","span-4",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-5",{"className":"mbin","children":"+"}],["$","span","span-6",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-7",{"className":"mop","children":"cos"}],["$","span","span-8",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-9",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-10",{"className":"mclose delimcenter","style":{"top":"0em"},"children":")"}]]}]]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.677em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord","children":"1"}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-2",{"className":"mbin","children":"−"}],["$","span","span-3",{"className":"mspace","style":{"marginRight":"0.2222em"}}],["$","span","span-4",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.888em"},"children":["$","span","span-0",{"style":{"top":"-3.063em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-1",{"className":"mopen mtight","children":"("}],["$","span","span-2",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-4",{"className":"mbin mtight","children":"+"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-6",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-7",{"className":"mclose mtight","children":")"}]]}]}]]}]}]}]}]}]]}]]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.936em"},"children":["$","span","span-0",{}]}]}]]}]}],["$","span","span-2",{"className":"mclose nulldelimiter"}]]}],["$","span","span-1",{"className":"mord","children":[["$","span","span-0",{"className":"mord mathnormal","children":"e"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t","children":["$","span","span-0",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.938em"},"children":["$","span","span-0",{"style":{"top":"-3.113em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],"$L346"]}]}]}]}]}]]}],"$L347","$L348","$L349","$L34a"]}]
+339:["$","span","span-9",{"className":"mclose mtight","children":")"}]
+33a:["$","span","span-1",{"className":"vlist-s","children":"​"}]
+33b:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4811em"},"children":["$","span","span-0",{}]}]}]
+33c:["$","span","span-2",{"className":"mclose nulldelimiter"}]
+33d:["$","span","span-3",{"className":"mord mathnormal","children":"d"}]
+33e:["$","span","span-4",{"className":"mord mathnormal","children":"x"}]
+33f:["$","span","span-0",{"className":"vlist","style":{"height":"0.8593em"},"children":[["$","span","span-0",{"style":{"top":"-2.3442em","marginLeft":"-0.1945em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.2579em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}]
+340:["$","span","span-1",{"className":"vlist-s","children":"​"}]
+341:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4142em"},"children":["$","span","span-0",{}]}]}]
+342:["$","span","span-14",{"className":"mspace","style":{"marginRight":"0.1667em"}}]
+343:["$","span","span-15",{"className":"mord","children":[["$","span","span-0",{"className":"mop","children":[["$","span","span-0",{"className":"mop op-symbol small-op","style":{"marginRight":"0.1945em","position":"relative","top":"-0.0006em"},"children":"∫"}],["$","span","span-1",{"className":"msupsub","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"0.8593em"},"children":[["$","span","span-0",{"style":{"top":"-2.3442em","marginLeft":"-0.1945em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.2579em","marginRight":"0.05em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"2.7em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":["$","span","span-0",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"π"}]}]}]]}]]}],["$","span","span-1",{"className":"vlist-s","children":"​"}]]}],["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4142em"},"children":["$","span","span-0",{}]}]}]]}]}]]}],["$","span","span-1",{"className":"mspace","style":{"marginRight":"0.1667em"}}],["$","span","span-2",{"className":"mord","children":[["$","span","span-0",{"className":"mopen nulldelimiter"}],["$","span","span-1",{"className":"mfrac","children":["$","span","span-0",{"className":"vlist-t vlist-t2","children":[["$","span","span-0",{"className":"vlist-r","children":[["$","span","span-0",{"className":"vlist","style":{"height":"1.01em"},"children":[["$","span","span-0",{"style":{"top":"-2.655em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"2"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"−"}],["$","span","span-6",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-7",{"className":"mspace mtight","style":{"marginRight":"0.1952em"}}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}]]}]}]]}],["$","span","span-1",{"style":{"top":"-3.23em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"frac-line","style":{"borderBottomWidth":"0.04em"}}]]}],["$","span","span-2",{"style":{"top":"-3.485em"},"children":[["$","span","span-0",{"className":"pstrut","style":{"height":"3em"}}],["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"1"}],["$","span","span-1",{"className":"mbin mtight","children":"−"}],["$","span","span-2",{"className":"mop mtight","children":[["$","span","span-0",{"className":"mtight","children":"c"}],["$","span","span-1",{"className":"mtight","children":"o"}],["$","span","span-2",{"className":"mtight","children":"s"}]]}],["$","span","span-3",{"className":"mopen mtight","children":"("}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-5",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-6",{"className":"mbin mtight","children":"+"}],["$","span","span-7",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-8",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],"$L34b"]}]}]]}]]}],"$L34c"]}],"$L34d"]}]}],"$L34e"]}],"$L34f","$L350"]}]
+344:["$","span","span-16",{"className":"mord mathnormal","children":"d"}]
+345:["$","span","span-17",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
+346:["$","span","span-1",{"className":"sizing reset-size6 size3 mtight","children":["$","span","span-0",{"className":"mord mtight","children":[["$","span","span-0",{"className":"mord mtight","children":"−"}],["$","span","span-1",{"className":"mord mathnormal mtight","children":"i"}],["$","span","span-2",{"className":"mopen mtight","children":"("}],["$","span","span-3",{"className":"mord mathnormal mtight","children":"m"}],["$","span","span-4",{"className":"mord mathnormal mtight","children":"x"}],["$","span","span-5",{"className":"mbin mtight","children":"+"}],["$","span","span-6",{"className":"mord mathnormal mtight","children":"n"}],["$","span","span-7",{"className":"mord mathnormal mtight","style":{"marginRight":"0.0359em"},"children":"y"}],["$","span","span-8",{"className":"mclose mtight","children":")"}]]}]}]
+347:["$","span","span-2",{"className":"mord mathnormal","children":"d"}]
+348:["$","span","span-3",{"className":"mord mathnormal","children":"x"}]
+349:["$","span","span-4",{"className":"mord mathnormal","children":"d"}]
+34a:["$","span","span-5",{"className":"mord mathnormal","style":{"marginRight":"0.0359em"},"children":"y"}]
+34b:["$","span","span-9",{"className":"mclose mtight","children":")"}]
+34c:["$","span","span-1",{"className":"vlist-s","children":"​"}]
+34d:["$","span","span-1",{"className":"vlist-r","children":["$","span","span-0",{"className":"vlist","style":{"height":"0.4811em"},"children":["$","span","span-0",{}]}]}]
+34e:["$","span","span-2",{"className":"mclose nulldelimiter"}]
+34f:["$","span","span-3",{"className":"mord mathnormal","children":"d"}]
+350:["$","span","span-4",{"className":"mord mathnormal","children":"x"}]
